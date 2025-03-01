@@ -1,1 +1,8 @@
-
+MetaTrader5
+influxdb-client
+celery
+torch>=2.0
+transformers
+pyqt5
+pandas
+numpy
